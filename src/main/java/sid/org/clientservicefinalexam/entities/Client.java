@@ -1,4 +1,4 @@
-package sid.org.clientservice.entities;
+package sid.org.clientservicefinalexam.entities;
 
 
 import lombok.AllArgsConstructor;

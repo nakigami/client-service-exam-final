@@ -1,4 +1,4 @@
-package sid.org.clientservice;
+package sid.org.clientservicefinalexam;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

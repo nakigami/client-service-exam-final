@@ -1,11 +1,11 @@
-package sid.org.clientservice;
+package sid.org.clientservicefinalexam;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
-import sid.org.clientservice.entities.Client;
-import sid.org.clientservice.dao.ClientRepository;
+import sid.org.clientservicefinalexam.entities.Client;
+import sid.org.clientservicefinalexam.dao.ClientRepository;
 
 @SpringBootApplication
 public class ClientServiceApplication {
